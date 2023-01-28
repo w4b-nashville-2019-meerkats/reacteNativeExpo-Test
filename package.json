@@ -24,7 +24,7 @@
         "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
         "react-navigation": "^3.0.9",
         "set-value": "^4.0.1",
-        "ua-parser-js": "^0.7.28",
+        "ua-parser-js": "^0.7.33",
         "webpack": "^4.39.3",
         "ws": "^7.4.6",
         "yargs-parser": "^19.0.4"
