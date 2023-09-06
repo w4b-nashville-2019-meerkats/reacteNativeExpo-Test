@@ -14,7 +14,7 @@
         "@expo/samples": "2.1.1",
         "acorn": "^7.1.1",
         "braces": "^3.0.2",
-        "expo": "^47.0.12",
+        "expo": "^49.0.9",
         "handlebars": "^4.7.7",
         "lodash": "^4.17.21",
         "mem": "^5.1.1",
@@ -31,7 +31,7 @@
     },
     "devDependencies": {
         "babel-preset-expo": "^5.0.0",
-        "jest-expo": "^46.0.1"
+        "jest-expo": "^49.0.0"
     },
     "private": true
 }
